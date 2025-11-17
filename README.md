@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronny Kimutai</h1>
 <h3 align="center">A Hardware ~ Software Developer and Electrical Engineering Student</h3>
 
-- 🌱 I’m currently learning **AI/ML, Data Analysis with Python and Electric Vehicle Technology**
-
 - 👨‍💻 All of my projects are available at [https://ronny-kimutai.vercel.app/](https://ronny-kimutai.vercel.app/)
 
 - 💬 Ask me about **Embedded Systems and IoT, Electric vehicles, Software, AI/ML, Data Analysis and Renewable Energy**
