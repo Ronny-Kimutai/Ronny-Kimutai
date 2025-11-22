@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronny Kimutai</h1>
-<h3 align="center">A Hardware ~ Software Developer and Electrical Engineering Student</h3>
+<h3 align="center">A Hardware + Software Developer and Electrical Engineering Student</h3>
 
 - 👨‍💻 Check out my portfolio [https://ronny-kimutai.vercel.app/](https://ronny-kimutai.vercel.app/)
 
