@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ronny Kimutai</h1>
 <h3 align="center">A Hardware ~ Software Developer and Electrical Engineering Student</h3>
 
-- 👨‍💻 All of my projects are available at [https://ronny-kimutai.vercel.app/](https://ronny-kimutai.vercel.app/)
+- 👨‍💻 Check out my portfolio [https://ronny-kimutai.vercel.app/](https://ronny-kimutai.vercel.app/)
 
 - 💬 Ask me about **Embedded Systems and IoT, Electric vehicles, Software, AI/ML, Data Analysis and Renewable Energy**
 
 - 📫 How to reach me **ronnykibiwott505@gmail.com**
 
-- 📄 Know about my experiences [https://ronny-kimutai.vercel.app/](https://ronny-kimutai.vercel.app/)
+- 📄 Know about my experiences [https://ronny-kimutai.vercel.app/]([https://ronny-kimutai.vercel.app/](https://www.linkedin.com/in/ronny-kimutai-462500243/))
 
 - ⚡ Fun fact **I want to play Lawn Tennis when I get old**
 
