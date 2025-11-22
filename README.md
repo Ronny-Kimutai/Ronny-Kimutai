@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ronnykibiwott505@gmail.com**
 
-- 📄 Know about my experiences [https://ronny-kimutai.vercel.app/]([https://ronny-kimutai.vercel.app/](https://www.linkedin.com/in/ronny-kimutai-462500243/))
+- 📄 Know about my experiences [Linkedln](https://www.linkedin.com/in/ronny-kimutai-462500243/)
 
 - ⚡ Fun fact **I want to play Lawn Tennis when I get old**
 
